@@ -1,0 +1,14 @@
+E:\Projects\Visual Studio\ProcessCloserLauncher\bin\Release\net9.0\ProcessCloserLauncher.exe
+E:\Projects\Visual Studio\ProcessCloserLauncher\bin\Release\net9.0\ProcessCloserLauncher.deps.json
+E:\Projects\Visual Studio\ProcessCloserLauncher\bin\Release\net9.0\ProcessCloserLauncher.runtimeconfig.json
+E:\Projects\Visual Studio\ProcessCloserLauncher\bin\Release\net9.0\ProcessCloserLauncher.dll
+E:\Projects\Visual Studio\ProcessCloserLauncher\bin\Release\net9.0\ProcessCloserLauncher.pdb
+E:\Projects\Visual Studio\ProcessCloserLauncher\obj\Release\net9.0\ProcessCloserLauncher.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Visual Studio\ProcessCloserLauncher\obj\Release\net9.0\ProcessCloserLauncher.AssemblyInfoInputs.cache
+E:\Projects\Visual Studio\ProcessCloserLauncher\obj\Release\net9.0\ProcessCloserLauncher.AssemblyInfo.cs
+E:\Projects\Visual Studio\ProcessCloserLauncher\obj\Release\net9.0\ProcessCloserLauncher.csproj.CoreCompileInputs.cache
+E:\Projects\Visual Studio\ProcessCloserLauncher\obj\Release\net9.0\ProcessCloserLauncher.dll
+E:\Projects\Visual Studio\ProcessCloserLauncher\obj\Release\net9.0\refint\ProcessCloserLauncher.dll
+E:\Projects\Visual Studio\ProcessCloserLauncher\obj\Release\net9.0\ProcessCloserLauncher.pdb
+E:\Projects\Visual Studio\ProcessCloserLauncher\obj\Release\net9.0\ProcessCloserLauncher.genruntimeconfig.cache
+E:\Projects\Visual Studio\ProcessCloserLauncher\obj\Release\net9.0\ref\ProcessCloserLauncher.dll
