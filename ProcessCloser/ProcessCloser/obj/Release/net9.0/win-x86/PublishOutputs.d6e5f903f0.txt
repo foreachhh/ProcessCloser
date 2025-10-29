@@ -1,0 +1,2 @@
+E:\Projects\Visual Studio\ProcessCloser\bin\Release\net9.0\publish\win-x86\ProcessCloser.pdb
+E:\Projects\Visual Studio\ProcessCloser\bin\Release\net9.0\publish\win-x86\ProcessCloser.exe
