@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Projects\\Visual Studio\\ProcessCloserLauncher\\",
+  "WorkspaceRootPath": "E:\\Projects\\Visual Studio\\Proc\\ProcessCloserLauncher\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CA6FA44-376C-40CE-8D28-F4D4DA537F09}|ProcessCloserLauncher.csproj|e:\\projects\\visual studio\\processcloserlauncher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7CA6FA44-376C-40CE-8D28-F4D4DA537F09}|ProcessCloserLauncher.csproj|e:\\projects\\visual studio\\proc\\processcloserlauncher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CA6FA44-376C-40CE-8D28-F4D4DA537F09}|ProcessCloserLauncher.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Projects\\Visual Studio\\ProcessCloserLauncher\\Program.cs",
+              "DocumentMoniker": "E:\\Projects\\Visual Studio\\Proc\\ProcessCloserLauncher\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\Projects\\Visual Studio\\ProcessCloserLauncher\\Program.cs",
+              "ToolTip": "E:\\Projects\\Visual Studio\\Proc\\ProcessCloserLauncher\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAYwCUAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T10:21:22.09Z",
               "EditorCaption": ""

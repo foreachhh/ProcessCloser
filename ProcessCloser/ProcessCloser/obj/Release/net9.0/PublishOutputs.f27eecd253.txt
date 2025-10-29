@@ -1,5 +1,0 @@
-E:\Projects\Visual Studio\ProcessCloser\bin\Release\net9.0\publish\ProcessCloser.exe
-E:\Projects\Visual Studio\ProcessCloser\bin\Release\net9.0\publish\ProcessCloser.dll
-E:\Projects\Visual Studio\ProcessCloser\bin\Release\net9.0\publish\ProcessCloser.deps.json
-E:\Projects\Visual Studio\ProcessCloser\bin\Release\net9.0\publish\ProcessCloser.runtimeconfig.json
-E:\Projects\Visual Studio\ProcessCloser\bin\Release\net9.0\publish\ProcessCloser.pdb

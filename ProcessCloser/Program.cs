@@ -6,7 +6,7 @@ namespace ProcessCloser
     internal class Program
     {
         static string[] processesList;
-        static string settingsFileName = "\\ProcessesList.txt";
+        static string settingsFilePath = Path.Combine(AppContext.BaseDirectory, "ProcessesList.txt");
 
         static int checkInterval = 500;
 
@@ -20,7 +20,7 @@ namespace ProcessCloser
         {
             ShowWindow(GetConsoleWindow(), 0); // Вызов метода который влияет на видимость консоли. Второй параметр(0) - означает что консоль должна быть скрыта.
 
-            processesList = File.ReadAllLines(Environment.CurrentDirectory + settingsFileName);
+            processesList = File.ReadAllLines(settingsFilePath);
 
             ProcessChecker();
         }

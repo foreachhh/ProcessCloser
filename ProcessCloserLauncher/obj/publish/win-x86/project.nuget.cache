@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WREKHQi8lh4=",
+  "dgSpecHash": "JdRuC/H0C7A=",
   "success": true,
-  "projectFilePath": "E:\\Projects\\Visual Studio\\ProcessCloserLauncher\\ProcessCloserLauncher.csproj",
+  "projectFilePath": "E:\\Projects\\Visual Studio\\Proc\\ProcessCloserLauncher\\ProcessCloserLauncher.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\forea\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.9\\microsoft.net.illink.tasks.9.0.9.nupkg.sha512",
     "C:\\Users\\forea\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\9.0.9\\microsoft.netcore.app.runtime.win-x86.9.0.9.nupkg.sha512",
