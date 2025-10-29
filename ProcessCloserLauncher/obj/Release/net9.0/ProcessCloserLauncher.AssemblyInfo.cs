@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProcessCloserLauncher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba37ce2a8b8ba0fbfc675b86d6a56d44d872e984")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProcessCloserLauncher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProcessCloserLauncher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

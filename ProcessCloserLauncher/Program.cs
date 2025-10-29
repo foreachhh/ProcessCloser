@@ -67,7 +67,7 @@ namespace ProcessCloser
         {
             RegistryKey rkApp = Registry.CurrentUser.OpenSubKey("SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run", true);
 
-            rkApp.SetValue("ProcessCloser", mainAppPath);
+            rkApp.SetValue("ProcessCloser", $"\"{mainAppPath}\"");
 
             rkApp.Close();
         }

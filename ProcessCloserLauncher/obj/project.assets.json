@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\Visual Studio\\ProcessCloserLauncher\\ProcessCloserLauncher.csproj",
+      "projectUniqueName": "E:\\Projects\\Visual Studio\\Proc\\ProcessCloserLauncher\\ProcessCloserLauncher.csproj",
       "projectName": "ProcessCloserLauncher",
-      "projectPath": "E:\\Projects\\Visual Studio\\ProcessCloserLauncher\\ProcessCloserLauncher.csproj",
+      "projectPath": "E:\\Projects\\Visual Studio\\Proc\\ProcessCloserLauncher\\ProcessCloserLauncher.csproj",
       "packagesPath": "C:\\Users\\forea\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\Visual Studio\\ProcessCloserLauncher\\obj\\",
+      "outputPath": "E:\\Projects\\Visual Studio\\Proc\\ProcessCloserLauncher\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
