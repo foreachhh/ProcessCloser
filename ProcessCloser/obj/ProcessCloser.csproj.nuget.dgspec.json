@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\Visual Studio\\Proc\\ProcessCloser\\ProcessCloser.csproj": {}
+    "E:\\Projects\\Visual Studio\\ProcessCloser\\ProcessCloser\\ProcessCloser.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\Visual Studio\\Proc\\ProcessCloser\\ProcessCloser.csproj": {
+    "E:\\Projects\\Visual Studio\\ProcessCloser\\ProcessCloser\\ProcessCloser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Visual Studio\\Proc\\ProcessCloser\\ProcessCloser.csproj",
+        "projectUniqueName": "E:\\Projects\\Visual Studio\\ProcessCloser\\ProcessCloser\\ProcessCloser.csproj",
         "projectName": "ProcessCloser",
-        "projectPath": "E:\\Projects\\Visual Studio\\Proc\\ProcessCloser\\ProcessCloser.csproj",
+        "projectPath": "E:\\Projects\\Visual Studio\\ProcessCloser\\ProcessCloser\\ProcessCloser.csproj",
         "packagesPath": "C:\\Users\\forea\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Visual Studio\\Proc\\ProcessCloser\\obj\\",
+        "outputPath": "E:\\Projects\\Visual Studio\\ProcessCloser\\ProcessCloser\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

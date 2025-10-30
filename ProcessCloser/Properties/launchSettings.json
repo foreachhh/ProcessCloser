@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProcessCloser": {
+      "commandName": "Project",
+      "commandLineArgs": "-launcher\r\n"
+    }
+  }
+}

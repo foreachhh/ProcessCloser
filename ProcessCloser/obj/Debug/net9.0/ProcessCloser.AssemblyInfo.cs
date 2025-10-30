@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProcessCloser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6c5bbfb8ff9699a665e9330343304284edc3263")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProcessCloser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProcessCloser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
